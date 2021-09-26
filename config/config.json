@@ -1,0 +1,26 @@
+{
+	"development": {
+		"username": "databse",
+		"password": "p!nkmarK3t",
+		"host": "159.203.35.120",
+		"dialect": "postgres",
+		"port": "5432",
+		"database": "databse"
+	},
+	"test": {
+		"username": "databse",
+		"password": "p!nkmarK3t",
+		"host": "159.203.35.120",
+		"dialect": "postgres",
+		"port": "5432",
+		"database": "databse"
+	},
+	"production": {
+		"username": "databse",
+		"password": "p!nkmarK3t",
+		"host": "159.203.35.120",
+		"dialect": "postgres",
+		"port": "5432",
+		"database": "databse"
+	}
+}
