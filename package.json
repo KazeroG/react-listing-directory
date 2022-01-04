@@ -32,7 +32,7 @@
     "sequelize": "^6.6.4",
     "uuid": "^8.3.2",
     "uuid-validate": "0.0.3",
-    "validator": "^13.6.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "eslint": "7.29.0",
